@@ -1,0 +1,11 @@
+{
+  "private": "true",
+  "name": "@lubeso/template-hugo-site",
+  "version": "0.1.0",
+  "description": "Template Hugo site",
+  "scripts": {},
+  "keywords": ["hugo", "hugo-site"],
+  "author": "Luis Becerra Solis <lubeso@icloud.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@8.15.1"
+}
